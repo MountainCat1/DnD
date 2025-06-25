@@ -5,9 +5,9 @@ permalink: /rules/environment/
 ---
 
 ### **Sleep Deprivation**
-- At the end of a 24-hour period without sleep, you must succeed on a **DC 15 Constitution saving throw** or suffer **2 levels of exhaustion**.
-- For each additional 24 hours without sleep, increase the DC by **5** (DC 20, DC 25, etc.).
-- After a **successful long rest**, the DC resets to **10**.
+- At the end of a 24-hour period without sleep, you must succeed on a **DC 10 Constitution saving throw** or suffer **2 levels of exhaustion**.
+- For each additional 24 hours without sleep, increase the DC by **5** (DC 15, DC 20, etc.).
+- After a **successful sleep**, the DC resets to **10**.
 
 ---
 
