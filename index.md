@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Mountain Cat's D&D House Rules
+layout: default
+title: "Mountain Cat's D&D House Rules"
+permalink: /
 ---
 
 ## Welcome
