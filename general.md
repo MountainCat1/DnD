@@ -1,7 +1,7 @@
 ---
 layout: page
 title: General Rules
-permalink: /DnD/rules/general/
+permalink: /rules/general/
 ---
 
 
