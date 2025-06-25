@@ -14,80 +14,109 @@ title: Mountain Cat's D&D House Rules
         - Saving Throws
         - Ability Checks
 - At **10 points** of exhaustion, you **die**.
-(All following mentions of exhaustion account for the change in exhaustion gain amount, so do not adjust it x2)
+> All rules and features that reference exhaustion automatically use this adjusted scale. Do not double it again.
 
 ---
+
 ### **Getting Downed**
-- Each time you fall unconscious by falling to 0 HP you gain 2 points of exhaustion.
+- Each time you fall unconscious by dropping to 0 HP, you gain **2 points of exhaustion**.
 
 ---
+
 ### **Flanking**
 - Flanking only applies when you and an ally are on **opposite sides** of a creature.
 - Flanking grants a **+2 bonus to melee attack rolls**.
 - Flanking provides **no other benefits**.
 
 ---
+
 ### **Custom Long Rests (“Safe Rests”)**
-- **Short Rests** function as normal:
-    - Take 1 hour.
+
+#### Short Rests
+- Function as normal:
+    - Take **1 hour**.
     - Can be done anywhere, anytime, and can be interrupted.
-- **Long Rests** are now referred to as **“Safe Rests”**, with the following changes:
-    - Take a minimum of **8 hours**.
-    - Can only be taken in a **Safe Place**.
-- A **Safe Place** must meet **all** the following conditions:
-    - An effectively **unlimited supply of food**.
-    - An effectively **unlimited supply of healing** (e.g., medical facility, magical aid like stationed druids or clerics).
-    - **Protection from immediate danger**, such as:
-        - Guarded walls
-        - A well-barricaded structure
-        - A remote and secure location (e.g., mountaintop not frequently attacked by creatures like harpies)
-- **Safe Places** may become unusable over time due to:
-    - **Depletion of resources**
-    - **Increased monster activity** due to player presence
-    _Example:_ If the party barricades an abandoned house full of food and water, it might only provide **two Safe Rests** due to limited medical supplies or because whatever caused the abandonment notices new activity. The place remains _safe_ until danger directly breaches the barricade.
+
+#### Long Rests (renamed to **Safe Rests**)
+- Take a minimum of **8 hours**.
+- Can **only** be taken in a **Safe Place**.
+
+#### Safe Place Requirements:
+- An effectively **unlimited supply of food**.
+- An effectively **unlimited supply of healing** (e.g., medical facility, magical aid such as stationed druids or clerics).
+- **Protection from immediate danger**, such as:
+    - Guarded walls
+    - A well-barricaded structure
+    - A remote and secure location (e.g., mountaintop rarely attacked)
+
+> **Safe Places may become unusable** due to:
+> - Depletion of supplies
+> - Increased monster activity from player presence
+
+_Example:_ If the party fortifies an abandoned house with food and water, it might provide only **two Safe Rests** before becoming compromised. It remains safe until the threat actively breaches the defenses.
 
 ---
+
 ### **Custom Encumbrance**
-- Maximum carry weight is **10 × Strength score** in pounds.  
-- There are **no penalties** for carrying weight—if it exceeds the limit, you simply **cannot carry more**.
-- **Pushing, dragging, and lifting** follow the standard (Vanilla) rules.
+- Your maximum carry weight is **10 × Strength score** in pounds.
+- There are **no penalties** for being over this limit — you simply **cannot carry more**.
+- **Pushing, dragging, and lifting** follow the standard (vanilla) rules.
 
 ---
+
 ### **DM Inspiration**
-- You can only **store one inspiration** at a time.
+- You may only **store one inspiration** at a time.
 - You earn inspiration by doing something:
     - **Cool or creative**
     - That shows **strong roleplay**
-    - That reflects your **backstory**, **personality traits**, **bonds**, **flaws**, or **ideals**
-- You can spend inspiration to reroll **any roll**—_not just d20s_.
+    - That reflects your **backstory**, **traits**, **bonds**, **flaws**, or **ideals**
+- You can use inspiration to reroll **any roll** (not just d20s):
+    - Your own roll
+    - Another player’s roll
+    - A DM’s roll
+    - Including **damage**, **saving throws**, **attack rolls**, **ability checks**, etc.
     - You can choose to use it **after seeing the result**.
-    - It can reroll:
-        - Your own roll
-        - Another player’s roll
-        - Even a DM’s roll
-        - Examples include **attack rolls**, **saving throws**, **ability checks**, **damage rolls**, etc.
-- DM does not announce inspiration, it will be subtly added to your character sheet
+- The DM may add inspiration **silently** to your character sheet when deserved.
+
 ---
-### **Custom Scroll Casting**
-- If the spell is on your class's spell list **and** of a level you can normally cast, you can read the scroll and cast the spell without providing material components. The casting takes the spell's normal casting time. Once cast, the scroll's words vanish and the scroll crumbles to dust. If casting is interrupted, the scroll is not consumed.
 
-- If the spell is on your class's spell list but **of a higher level than you can normally cast**, you must make an ability check using your spellcasting ability (DC 10). On a success, the spell is cast as above. On a failure, the spell disappears from the scroll with no effect, but the scroll remains intact and can be tried again later.
+### Custom Scroll Casting
 
-- If the spell is **not on your class's spell list**, the scroll is unintelligible and cannot be used by you.
+- If the spell is either:
+  - Not on your class's spell list, **or**
+  - On your class's spell list but **3 or more levels higher** than the highest-level spell you can currently cast,
 
-This house rule replaces the default scroll behavior with the following logic:
-- On your class list and within your castable level → cast freely.
-- On your class list but too high level → spellcasting ability check (DC 10).
-- Not on your class list → cannot cast.
+  → you must succeed on an **Arcana check** to cast it. The DC is based on the spell’s level, ranging from **DC 10 to DC 19**.
 
---- 
+- Otherwise, you can cast the spell from the scroll freely, without needing components or a check.
+---
+
+### **Sleep Deprivation**
+- At the end of a 24-hour period without sleep, you must succeed on a **DC 15 Constitution saving throw** or suffer **2 levels of exhaustion**.
+- For each additional 24 hours without sleep, increase the DC by **5** (DC 20, DC 25, etc.).
+- After a **successful long rest**, the DC resets to **10**.
+
+---
+
+### **Food Requirements**
+- A character requires **1 pound of food per day** to stay healthy.
+- A character can go **1 full day without food** with no ill effects.
+- Eating **half a pound of food** grants **advantage** on the next Constitution saving throw against starvation (see below).
+
+After the first day without food:
+- At the end of **each additional day without a full pound of food**, the character must succeed on a **DC 15 Constitution saving throw** or suffer **1 level of exhaustion**.
+- Consuming a **full day's worth of food (1 pound)** resets the starvation counter to **zero**.
+
+
+---
+
 ### **Variant Actions**
-(https://2014.5e.tools/variantrules.html#action%20options_dmg)
-- Climb onto a Bigger Creature
-- Overrun
-- Tumble
+From *Dungeon Master's Guide*:
+- [Climb onto a Bigger Creature](https://2014.5e.tools/variantrules.html#action%20options_dmg)
+- [Overrun](https://2014.5e.tools/variantrules.html#action%20options_dmg)
+- [Tumble](https://2014.5e.tools/variantrules.html#action%20options_dmg)
 
 ---
-### **Variant Rules Used**
-- Scroll Mishaps (https://2014.5e.tools/variantrules.html#scroll%20mishaps_dmg)
 
+### **Variant Rules Used**
+- [Scroll Mishaps](https://2014.5e.tools/variantrules.html#scroll%20mishaps_dmg)
