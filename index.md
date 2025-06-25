@@ -17,7 +17,7 @@ title: "D&D House Rules"
 (All following mentions of exhaustion account for the change in exhaustion gain amount, so do not adjust it x2)
 ---
 ### **Getting Downed**
-* Each time you fall unconscious by falling to 0 HP you gain 2 points of exhaustion.
+- Each time you fall unconscious by falling to 0 HP you gain 2 points of exhaustion.
 ---
 ### **Flanking**
 - Flanking only applies when you and an ally are on **opposite sides** of a creature.
