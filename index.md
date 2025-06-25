@@ -1,9 +1,11 @@
 ---
 layout: page
-title: General Rules
-permalink: /general/
+title: Mountain Cat's D&D House Rules
 ---
 
-### General House Rules
+## Welcome to Mountain Cat's D&D House Rules
 
-<!-- Your general rules go here -->
+Choose a section:
+
+- [General Rules](/general/)
+- [Survival & Environmental Rules](/survival/)
