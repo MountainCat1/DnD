@@ -2,7 +2,7 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 
-title: "D&D House Rules"
+title: "DnD House Rules"
 description: "Mountain Cat's house rules"
 
 minima:
