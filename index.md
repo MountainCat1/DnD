@@ -1,8 +1,3 @@
----
-title: "D&D House Rules"
----
-
-
 ### **Custom Exhaustion**
 - Whenever you would normally gain or lose 1 point of exhaustion, you instead gain or lose **2**.
 - Drinking a **Potion of Greater Healing** removes **1 exhaustion**.  
