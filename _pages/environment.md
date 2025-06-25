@@ -2,6 +2,7 @@
 layout: page
 title: Survival & Environmental Rules
 permalink: /survival/
+collection: pages
 ---
 
 ### Survival & Environmental Rules
