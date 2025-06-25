@@ -4,18 +4,16 @@ title: General Rules
 permalink: /rules/general/
 ---
 
-
-
 ### **Custom Exhaustion**
 - Whenever you would normally gain or lose 1 point of exhaustion, you instead gain or lose **2**.
 - Drinking a **Potion of Greater Healing** removes **1 exhaustion**.  
 - Drinking a **Potion of Superior Healing** removes **2 exhaustion**.
 - **Exhaustion Effects:**
-    - Each point of exhaustion imposes a **-1 penalty** to:
-        - Armor Class (AC)
+    - Each point of exhaustion imposes a **-1 penalty** to
         - Attack Rolls
         - Saving Throws
         - Ability Checks
+        - Armor Class (AC) (?)
 - At **10 points** of exhaustion, you **die**.
 > All rules and features that reference exhaustion automatically use this adjusted scale. Do not double it again.
 
