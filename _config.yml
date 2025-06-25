@@ -7,9 +7,6 @@ plugins:
 
 markdown: kramdown
 
-minima:
-  skin: dark
-
 header_pages:
   - index.md
 
