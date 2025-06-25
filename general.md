@@ -52,11 +52,11 @@ permalink: /rules/general/
     - A well-barricaded structure
     - A remote and secure location (e.g., mountaintop rarely attacked)
 
-> **Safe Places may become unusable** due to:
-> - Depletion of supplies
-> - Increased monster activity from player presence
+- **Safe Places may become unusable** due to:
+    - Depletion of supplies
+    - Increased monster activity from player presence
 
-_Example:_ If the party fortifies an abandoned house with food and water, it might provide only **two Safe Rests** before becoming compromised. It remains safe until the threat actively breaches the defenses.
+> _Example:_ If the party fortifies an abandoned house with food and water, it might provide only **two Safe Rests** before becoming compromised. It remains safe until the threat > actively breaches the defenses.
 
 ---
 
