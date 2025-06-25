@@ -8,6 +8,6 @@ title: Mountain Cat's D&D House Rules
 Choose a section:
 
 - [General Rules]({{ site.baseurl }}/rules/general/)
-- [Survival & Environmental Rules]({{ site.baseurl }}/rules/survival/)
+- [Survival & Environmental Rules]({{ site.baseurl }}/rules/environment/)
 
-> v8
+> v9
