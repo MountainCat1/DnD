@@ -84,7 +84,6 @@ _Example:_ If the party fortifies an abandoned house with food and water, it mig
 ---
 
 ### Custom Scroll Casting
-
 - If the spell is either:
   - Not on your class's spell list, **or**
   - On your class's spell list but **3 or more levels higher** than the highest-level spell you can currently cast,
@@ -92,25 +91,7 @@ _Example:_ If the party fortifies an abandoned house with food and water, it mig
   → you must succeed on an **Arcana check** to cast it. The DC is based on the spell’s level, ranging from **DC 10 to DC 19**.
 
 - Otherwise, you can cast the spell from the scroll freely, without needing components or a check.
----
-
-### **Sleep Deprivation**
-- At the end of a 24-hour period without sleep, you must succeed on a **DC 15 Constitution saving throw** or suffer **2 levels of exhaustion**.
-- For each additional 24 hours without sleep, increase the DC by **5** (DC 20, DC 25, etc.).
-- After a **successful long rest**, the DC resets to **10**.
-
----
-
-### **Food Requirements**
-- A character requires **1 pound of food per day** to stay healthy.
-- A character can go **1 full day without food** with no ill effects.
-- Eating **half a pound of food** grants **advantage** on the next Constitution saving throw against starvation (see below).
-
-After the first day without food:
-- At the end of **each additional day without a full pound of food**, the character must succeed on a **DC 15 Constitution saving throw** or suffer **1 level of exhaustion**.
-- Consuming a **full day's worth of food (1 pound)** resets the starvation counter to **zero**.
-
-
+  
 ---
 
 ### **Variant Actions**
