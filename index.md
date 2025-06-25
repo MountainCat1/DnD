@@ -76,9 +76,9 @@ title: Mountain Cat's D&D House Rules
 - If the spell is **not on your class's spell list**, the scroll is unintelligible and cannot be used by you.
 
 This house rule replaces the default scroll behavior with the following logic:
-- ✅ On your class list and within your castable level → cast freely.
-- 🎲 On your class list but too high level → spellcasting ability check (DC 10).
-- ❌ Not on your class list → cannot cast.
+- On your class list and within your castable level → cast freely.
+- On your class list but too high level → spellcasting ability check (DC 10).
+- Not on your class list → cannot cast.
 
 --- 
 ### **Variant Actions**
