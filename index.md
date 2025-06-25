@@ -11,7 +11,7 @@ Choose a section:
 #### Rules
 - [General Rules]({{ site.baseurl }}/rules/general/)
 - [Survival & Environmental Rules]({{ site.baseurl }}/rules/environment/)
-### Miscellaneous
+#### Miscellaneous
 - [Links]({{ site.baseurl }}/links/)
 
   
