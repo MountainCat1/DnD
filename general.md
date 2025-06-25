@@ -108,4 +108,4 @@ From *Dungeon Master's Guide*:
 --- 
 
 ### **Other House Rule Sets**
-- [General Rules]({{ site.baseurl }}/rules/general/)
+- [Survival & Environmental Rules]({{ site.baseurl }}/rules/environment/)
