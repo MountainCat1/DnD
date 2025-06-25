@@ -11,4 +11,4 @@ Choose a section:
 - [General Rules]({{ site.baseurl }}/rules/general/)
 - [Survival & Environmental Rules]({{ site.baseurl }}/rules/environment/)
 
-> v11
+> v12
