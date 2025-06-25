@@ -5,11 +5,11 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 
+markdown: kramdown
+
 minima:
   skin: dark
 
 header_pages:
   - index.md
 
-
-markdown: kramdown
