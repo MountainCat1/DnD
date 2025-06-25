@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Survival & Environmental Rules
-permalink: /DnD/rules/environmental/
+permalink: /rules/environmental/
 ---
 
 ### **Sleep Deprivation**
