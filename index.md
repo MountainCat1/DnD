@@ -69,5 +69,7 @@ D&D House Rules
 ### **Custom Scroll Casting**
 - TODO
 
+  
+---
 ### **Variant Rules Used**
 - Scroll Mishaps (https://2014.5e.tools/variantrules.html#scroll%20mishaps_dmg)
