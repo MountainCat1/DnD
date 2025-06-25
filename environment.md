@@ -20,3 +20,8 @@ After the first day without food:
 - At the end of **each additional day without a full pound of food**, the character must succeed on a **DC 15 Constitution saving throw** or suffer **1 level of exhaustion**.
 - Consuming a **full day's worth of food (1 pound)** resets the starvation counter to **zero**.
 
+---
+
+### General Rules
+
+[General Rules]({{ site.baseurl }}/rules/general/)
