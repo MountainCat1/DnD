@@ -15,14 +15,17 @@ title: "D&D House Rules"
         - Ability Checks
 - At **10 points** of exhaustion, you **die**.
 (All following mentions of exhaustion account for the change in exhaustion gain amount, so do not adjust it x2)
+
 ---
 ### **Getting Downed**
 - Each time you fall unconscious by falling to 0 HP you gain 2 points of exhaustion.
+
 ---
 ### **Flanking**
 - Flanking only applies when you and an ally are on **opposite sides** of a creature.
 - Flanking grants a **+2 bonus to melee attack rolls**.
 - Flanking provides **no other benefits**.
+
 ---
 ### **Custom Long Rests (“Safe Rests”)**
 - **Short Rests** function as normal:
@@ -42,11 +45,13 @@ title: "D&D House Rules"
     - **Depletion of resources**
     - **Increased monster activity** due to player presence
     _Example:_ If the party barricades an abandoned house full of food and water, it might only provide **two Safe Rests** due to limited medical supplies or because whatever caused the abandonment notices new activity. The place remains _safe_ until danger directly breaches the barricade.
+
 ---
 ### **Custom Encumbrance**
 - Maximum carry weight is **10 × Strength score** in pounds.  
 - There are **no penalties** for carrying weight—if it exceeds the limit, you simply **cannot carry more**.
 - **Pushing, dragging, and lifting** follow the standard (Vanilla) rules.
+
 ---
 ### **DM Inspiration**
 - You can only **store one inspiration** at a time.
