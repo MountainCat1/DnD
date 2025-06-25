@@ -2,8 +2,8 @@
 layout: page
 title: General Rules
 permalink: /general/
-collection: pages
 ---
+
 
 
 ### **Custom Exhaustion**
