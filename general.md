@@ -54,7 +54,7 @@ permalink: /rules/general/
     - Depletion of supplies
     - Increased monster activity from player presence
 
-> _Example:_ If the party fortifies an abandoned house with food and water, it might provide only **two Safe Rests** before becoming compromised. It remains safe until the threat > actively breaches the defenses.
+> *Example:* If the party fortifies an abandoned house with food and water, it might provide only **two Safe Rests** before supplies run out or monsters breach the defenses.
 
 ---
 
