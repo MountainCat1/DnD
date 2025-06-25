@@ -1,12 +1,12 @@
+title: "Mountain Cat's D&D"
+description: "Mountain Cat's house rules"
+
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 
-title: "Mountain Cat's D&D"
-description: "Mountain Cat's house rules"
-
 minima:
-  skin: dark  # or "auto" to follow system theme
+  skin: dark
 
 header_pages:
   - index.md
