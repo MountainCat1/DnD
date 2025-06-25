@@ -9,6 +9,4 @@ minima:
   skin: dark  # or "auto" to follow system theme
 
 header_pages:
-  - rules/environment
-  - rules/general
   - index.md
