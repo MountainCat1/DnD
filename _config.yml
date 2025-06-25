@@ -11,5 +11,6 @@ minima:
 markdown: kramdown
 
 header_pages:
-  - index.md
+  - /
+  - /rules/general/
 
