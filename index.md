@@ -63,6 +63,11 @@
         - Another player’s roll
         - Even a DM’s roll
         - Examples include **attack rolls**, **saving throws**, **ability checks**, **damage rolls**, etc.
-- DM does not announce inspiration, it will be subtly added to your character sheet 
+- DM does not announce inspiration, it will be subtly added to your character sheet
+
+---
+### **Custom Scroll Casting**
+- TODO
+
 ### **Variant Rules Used**
-- Scroll Mishaps
+- Scroll Mishaps (https://2014.5e.tools/variantrules.html#scroll%20mishaps_dmg)
