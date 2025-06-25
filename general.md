@@ -104,3 +104,8 @@ From *Dungeon Master's Guide*:
 
 ### **Variant Rules Used**
 - [Scroll Mishaps](https://2014.5e.tools/variantrules.html#scroll%20mishaps_dmg)
+
+--- 
+
+### **Other House Rule Sets**
+- [General Rules]({{ site.baseurl }}/rules/general/)
