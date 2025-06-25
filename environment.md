@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Survival & Environmental Rules
-permalink: /rules/environmental/
+permalink: /rules/environment/
 ---
 
 ### **Sleep Deprivation**
