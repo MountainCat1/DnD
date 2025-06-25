@@ -1,6 +1,6 @@
 ---
 layout: page
-title: D&D House Rules
+title: Mountain Cat's D&D House Rules
 ---
 
 ### **Custom Exhaustion**
