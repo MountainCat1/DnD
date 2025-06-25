@@ -7,8 +7,8 @@ title: Mountain Cat's D&D House Rules
 
 Choose a section:
 
-- [General Rules](/DnD/general/)
-- [Survival & Environmental Rules](/DnD/survival/)
+- [General Rules](/DnD/rules/general/)
+- [Survival & Environmental Rules](/DnD/rules/survival/)
 
 
-> v6
+> v7
