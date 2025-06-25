@@ -4,7 +4,7 @@ title: General Rules
 permalink: /rules/general/
 ---
 
-### **Custom Exhaustion**
+### Custom Exhaustion
 - Whenever you would normally gain or lose 1 point of exhaustion, you instead gain or lose **2**.
 - Drinking a **Potion of Greater Healing** removes **1 exhaustion**.  
 - Drinking a **Potion of Superior Healing** removes **2 exhaustion**.
@@ -19,19 +19,19 @@ permalink: /rules/general/
 
 ---
 
-### **Getting Downed**
+### Getting Downed
 - Each time you fall unconscious by dropping to 0 HP, you gain **2 points of exhaustion**.
 
 ---
 
-### **Flanking**
+### Flanking
 - Flanking only applies when you and an ally are on **opposite sides** of a creature.
 - Flanking grants a **+2 bonus to melee attack rolls**.
 - Flanking provides **no other benefits**.
 
 ---
 
-### **Custom Long Rests (“Safe Rests”)**
+### Custom Long Rests (“Safe Rests”)
 
 #### Short Rests
 - Function as normal:
@@ -58,14 +58,14 @@ permalink: /rules/general/
 
 ---
 
-### **Custom Encumbrance**
+### Custom Encumbrance
 - Your maximum carry weight is **10 × Strength score** in pounds.
 - There are **no penalties** for being over this limit — you simply **cannot carry more**.
 - **Pushing, dragging, and lifting** follow the standard (vanilla) rules.
 
 ---
 
-### **DM Inspiration**
+### DM Inspiration
 - You may only **store one inspiration** at a time.
 - You earn inspiration by doing something:
     - **Cool or creative**
@@ -92,7 +92,7 @@ permalink: /rules/general/
   
 ---
 
-### **Variant Actions**
+### Variant Actions
 From *Dungeon Master's Guide*:
 - [Climb onto a Bigger Creature](https://2014.5e.tools/variantrules.html#action%20options_dmg)
 - [Overrun](https://2014.5e.tools/variantrules.html#action%20options_dmg)
@@ -100,10 +100,10 @@ From *Dungeon Master's Guide*:
 
 ---
 
-### **Variant Rules Used**
+### Variant Rules Used
 - [Scroll Mishaps](https://2014.5e.tools/variantrules.html#scroll%20mishaps_dmg)
 
 --- 
 
-### **Other House Rule Sets**
+### Other House Rule Sets
 - [Survival & Environmental Rules]({{ site.baseurl }}/rules/environment/)
