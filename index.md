@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Mountain Cat's D&D House Rules"
+title: "Main Page"
 permalink: /
 ---
 
