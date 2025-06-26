@@ -8,6 +8,7 @@ permalink: /rules/general/
 - Whenever you would normally gain or lose 1 point of exhaustion, you instead gain or lose **2**.
 - Drinking a **Potion of Greater Healing** removes **1 exhaustion**.  
 - Drinking a **Potion of Superior Healing** removes **2 exhaustion**.
+- Sleeping/Resting for 6 hours removes  **2 exhaustion**
 - **Exhaustion Effects:**
     - Each point of exhaustion imposes a **-1 penalty** to
         - Attack Rolls
@@ -41,6 +42,7 @@ permalink: /rules/general/
 #### Long Rests (renamed to **Safe Rests**)
 - Take a minimum of **8 hours**.
 - Can **only** be taken in a **Safe Place**.
+- Do remove exhaustion points
 
 #### Safe Place Requirements:
 - An effectively **unlimited supply of food**.
