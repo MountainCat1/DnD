@@ -67,10 +67,10 @@ permalink: /rules/general/
 
 ### DM Inspiration
 - You may only **store one inspiration** at a time.
-- You earn inspiration by doing something:
-    - **Cool or creative**
-    - That shows **strong roleplay**
-    - That reflects your **backstory**, **traits**, **bonds**, **flaws**, or **ideals**
+- You earn inspiration by doing cool or creative stuff, for example:
+    - Commiting to strong roleplay
+    - Something  reflects your **backstory**, **traits**, **bonds**, **flaws**, or **ideals**
+    - Solving problems in unconventional ways
 - You can use inspiration to reroll **any roll** (not just d20s):
     - Your own roll
     - Another player’s roll
