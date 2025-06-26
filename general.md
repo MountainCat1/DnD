@@ -42,7 +42,7 @@ permalink: /rules/general/
 #### Long Rests (renamed to **Safe Rests**)
 - Take a minimum of **8 hours**.
 - Can **only** be taken in a **Safe Place**.
-- Do remove exhaustion points
+- Do not remove exhaustion points
 
 #### Safe Place Requirements:
 - An effectively **unlimited supply of food**.
