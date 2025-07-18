@@ -11,5 +11,3 @@ permalink: /links/
 #### Foundry
 - [Foundry on fireball.games (HTTPS)](https://dnd.fireball.games/)
 - [Foundry on fireball.games (HTTP)](http://fireball.games:30000/)
-
-- 
