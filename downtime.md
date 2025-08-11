@@ -4,8 +4,6 @@ title: Downtime
 permalink: /rules/downtime/
 ---
 
-# Downtime
-
 ## Crafting
 For the most part, we stick with what's written in the DMG and XGE.
 I will just drop here rules for the most commonly wanted to craft item — the healing potion.
