@@ -14,7 +14,7 @@ permalink: /rules/general/
         - Attack Rolls
         - Saving Throws
         - Ability Checks
-        - Armor Class (AC) (?)
+        - -0.5 Armor Class (AC)
 - At **10 points** of exhaustion, you **die**.
 > All rules and features that reference exhaustion automatically use this adjusted scale. Do not double it again.
 
