@@ -4,14 +4,14 @@ title: Survival & Environmental Rules
 permalink: /rules/environment/
 ---
 
-### **Sleep Deprivation**
+### Sleep Deprivation
 - At the end of a 24-hour period without sleep, you must succeed on a **DC 10 Constitution saving throw** or suffer **2 levels of exhaustion**.
 - For each additional 24 hours without sleep, increase the DC by **5** (DC 15, DC 20, etc.).
 - After a **successful sleep**, the DC resets to **10**.
 
 ---
 
-### **Food Requirements**
+### Food Requirements
 - A character requires **1 pound of food per day** to stay healthy.
 - A character can go **1 full day without food** with no ill effects.
 - Eating **half a pound of food** grants **advantage** on the next Constitution saving throw against starvation (see below).
@@ -23,8 +23,8 @@ After the first day without food:
 ---
 
 
-## Invisibility, Darkness, and Hiding**-
-### **Invisibility & Darkness**
+## Invisibility, Darkness, and Hiding
+### Invisibility & Darkness
 
 - **Hearing Radius:**
   - Each creature is assumed to have a 60 ft. hearing radius.
@@ -43,7 +43,7 @@ After the first day without food:
 
 ---
 
-### **Hiding**
+### Hiding
 
 - Rules as written (see [Hiding Reference](https://2014.5e.tools/quickreference.html#bookref-quick,2,hiding)) apply, with these clarifications:
 
