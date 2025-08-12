@@ -23,28 +23,37 @@ After the first day without food:
 ---
 
 
+## Invisibility, Darkness, and Hiding**-
+### **Invisibility & Darkness**
 
-### **Invisibility and darkness**
-- Each creature is assumed to have 60 feet of hearing radius, that creature knows of the location of all creatures within that radius.
-- If a creature is invisible, in magical darkness or full darkness, it can still be attacked by another if within the hearing radius, but as per the rules for attacking an unseen target, which means it has a disadvantage on the attack roll.
-as well as all features/spells that require a target to be seen do not work.
-- Traversing through magical darkness, full darkness, or while blinded counts as difficult terrain.
-- If both creatures do not see each other, by RAW the attacker has an advantage and a disadvantage on the attack roll.
-At our table, it works so that instead both creatures have just disadvantage on the attack roll against each other,
-  simulating the confusion of not being able to see each other.
+- **Hearing Radius:**
+  - Each creature is assumed to have a 60 ft. hearing radius.
+  - A creature automatically knows the location of all creatures within that radius unless they are silent and hidden.
+- **Attacking an Unseen Target:**
+  - A creature in **invisibility**, **magical darkness**, or **full darkness** can still be attacked if within another creature’s hearing radius.
+  - Attacks follow the *Attacking an Unseen Target* rule (disadvantage on attack rolls).
+  - Spells or features that require seeing the target cannot be used.
 
+- **Movement Through Darkness:**
+  - Moving through **magical darkness**, **full darkness**, or while **blinded** counts as *difficult terrain*.
+
+- **When Both Creatures Cannot See Each Other:**
+  - RAW: The attacker has both advantage (target is unseen) and disadvantage (cannot see target), which cancel out.
+  - **House Rule:** Instead, both creatures have *disadvantage* on attack rolls against each other, representing mutual confusion.
+
+---
 
 ### **Hiding**
-We use mostly the rules as written so refer to 
-- [Quick Reference: [Hiding]](https://2014.5e.tools/quickreference.html#bookref-quick,2,hiding)
 
->   An invisible creature is impossible to see without the aid of magic or a special sense.
-    For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.
-    Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.
+- Rules as written (see [Hiding Reference](https://2014.5e.tools/quickreference.html#bookref-quick,2,hiding)) apply, with these clarifications:
 
+  - An **invisible creature** is considered *heavily obscured*.
+  - Invisibility allows hiding without needing cover.
+  - The creature must still make a Stealth check to hide.
+  - An invisible creature’s location can be detected by noise or tracks it leaves.
+  - Being invisible might grant advantage on Stealth checks if other factors also obscure sound or movement.
 
-Which means that being invisible just allows you to hide without a cover, but you still need to make a stealth check to hide.
-Being invisible might grant you an advantage if on top of there are any factors that would make it hard to hear you.
+---
 
 ### General Rules
 
