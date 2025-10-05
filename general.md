@@ -8,7 +8,7 @@ permalink: /rules/general/
 - Whenever you would normally gain or lose 1 point of exhaustion, you instead gain or lose **2**.
 - Drinking a **Potion of Greater Healing** removes **1 exhaustion**.  
 - Drinking a **Potion of Superior Healing** removes **2 exhaustion**.
-- Sleeping/Resting for 6 hours removes  **2 exhaustion**
+- Sleeping/Resting for 6 hours removes **2 exhaustion**
 - **Exhaustion Effects:**
     - Each point of exhaustion imposes a **-1 penalty** to
         - Attack Rolls
@@ -21,7 +21,8 @@ permalink: /rules/general/
 ---
 
 ### Getting Downed
-- Each time you fall unconscious by dropping to 0 HP, you gain **2 points of exhaustion**.
+- Each time you regain unconscious by dropping to 0 HP, you gain **2 points of exhaustion**. 
+The only exception is if you rolled a natural 20 on a death saving throw to regain 1 HP.
 
 ---
 
@@ -29,6 +30,31 @@ permalink: /rules/general/
 - Flanking only applies when you and an ally are on **opposite sides** of a creature.
 - Flanking grants a **+2 bonus to melee attack rolls**.
 - Flanking provides **no other benefits**.
+
+---
+
+### Spell Componnets
+
+#### Material Components
+- If the spell consumes the material component with a specified cost, you can use your stored gold, instead of the specific item.
+- If the spell requires but does not consume a material component with a specified cost, you must have that specific item.
+#### Semantic Component
+- You need a free hand except if a feature specifies otherwise (e.g. War Caster feat).
+- Restrained condition does not prevent you from providing the somatic component. `(I'm thinking of changing that)`
+#### Vocal Component
+  - You need to be able to speak.
+    Casting a spell is always audible unless a class feature or ability states otherwise (e.g. the Subtle Spell metamagic).
+  - As a guideline:
+    - The act of casting can be heard from up to 120 feet away.
+    - The words of the spell can be understood from up to 60 feet away, provided the spell is on the listener's spell list.
+--- 
+### Wielding Items
+- Dropping an item on the ground/throwing it away requires no action.
+- Drawing or stowing an item requires an action.
+- You can draw a weapon as part of the attack action.
+> Which means if you have a bow in your hands, and you decide that now it's time to use your sword, 
+> to attack with a sword in this turn, you will need to drop the bow (no action) and attack with your sword, 
+> which also will allow you to draw it as part of the attack action.
 
 ---
 
@@ -73,12 +99,14 @@ permalink: /rules/general/
     - Commiting to strong roleplay
     - Something  reflects your **backstory**, **traits**, **bonds**, **flaws**, or **ideals**
     - Solving problems in unconventional ways
-- You can use inspiration to reroll **any roll** (not just d20s):
+- You can use inspiration to reroll **any roll** (not just d20s) (with few exceptions):
     - Your own roll
     - Another player’s roll
     - A DM’s roll
     - Including **damage**, **saving throws**, **attack rolls**, **ability checks**, etc.
     - You can choose to use it **after seeing the result**.
+    - You CANNOT reroll saving throws of enemies.
+    - You CANNOT reroll percentile rolls (d100) like wish, divine intervention, teleport spell etc.
 - The DM may add inspiration **silently** to your character sheet when deserved.
 
 ---
@@ -92,6 +120,27 @@ permalink: /rules/general/
 
 - Otherwise, you can cast the spell from the scroll freely, without needing components or a check.
   
+---
+
+### Attunement Requirements
+- If the attunement requirement for an item prevents you from attuning to it, ask the DM if they can waive it.
+  Maybe the item will not work fully, or require you to perform some task to attune to it.
+> Why cannot a bard attune to the Staff of Frost? Why cannot a fighter attune to a Sun Blade?
+
+---
+### Surprise
+
+#### Trap
+- Occurs when you prepare an ambush or a similar situation.
+- The leader of the ambush rolls a **Stealth check**, while all ambushed creatures roll **Perception checks**.
+- Any creature that rolls lower than the ambusher is **surprised**.
+- Surprised creatures cannot move or take an action on their first turn of combat, and they cannot take a reaction until that turn ends.
+
+#### Surprise Attack
+- Occurs when you attack a creature that is unaware of your presence.
+- The attackers roll a **Stealth check** contested by the target’s **Passive Perception**.
+- If even one attacker fails the contest, the surprise does not occur.
+
 ---
 
 ### Variant Actions
