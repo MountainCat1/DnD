@@ -1,3 +1,9 @@
+---
+layout: page
+title: Clarifications
+permalink: /rules/clarifications/
+---
+
 ### No Such Thing as High Ground Advantage
 - You do not gain advantage or bonuses to attack rolls for being on higher ground.
 - Instead, enemies have a harder time harming you, as elevation grants you cover—potentially even full cover (as per RAW cover rules).
