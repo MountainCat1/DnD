@@ -38,9 +38,11 @@ The only exception is if you rolled a natural 20 on a death saving throw to rega
 #### Material Components
 - If the spell consumes the material component with a specified cost, you can use your stored gold, instead of the specific item.
 - If the spell requires but does not consume a material component with a specified cost, you must have that specific item.
+
 #### Semantic Component
 - You need a free hand except if a feature specifies otherwise (e.g. War Caster feat).
 - Restrained condition does not prevent you from providing the somatic component. `(I'm thinking of changing that)`
+
 #### Vocal Component
   - You need to be able to speak.
     Casting a spell is always audible unless a class feature or ability states otherwise (e.g. the Subtle Spell metamagic).
