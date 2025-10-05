@@ -6,7 +6,7 @@ permalink: /rules/downtime/
 
 ## Crafting
 For the most part, we stick with what's written in the DMG and XGE.
-I will just drop here rules for the most commonly wanted to craft item — the healing potion.
+I will just drop here rules for the most commonly wanted to craft item: the healing potion.
 
 ### Crafting Time and Cost
 
@@ -24,7 +24,7 @@ The base creation times and costs for healing potions remain the same as in the 
 An adventurer can reduce the gold cost of crafting by gathering natural ingredients.
 - Up to **half of the crafting cost** may be offset in this way.
 - Gathering ingredients takes the same amount of time as the crafting process.
-- Gathering and crafting are separate activities — both must be completed to produce the potion.
+- Gathering and crafting are separate activities, both must be completed to produce the potion.
 
 For example, if you gather ingredients for a potion of healing and then craft it, the minimum total time required is **2 days**: one day for gathering, and one for crafting.
 

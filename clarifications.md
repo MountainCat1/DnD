@@ -6,7 +6,7 @@ permalink: /rules/clarifications/
 
 ### No Such Thing as High Ground Advantage
 - You do not gain advantage or bonuses to attack rolls for being on higher ground.
-- Instead, enemies have a harder time harming you, as elevation grants you cover—potentially even full cover (as per RAW cover rules).
+- Instead, enemies have a harder time harming you, as elevation grants you cover, potentially even full cover (as per RAW cover rules).
 
 ### Non-Combat Spells Are Not Meant to Deal Damage
 - Spells like Prestidigitation, Thaumaturgy, Minor Illusion, etc. are not intended to deal damage, and they won’t.

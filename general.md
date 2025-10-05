@@ -90,7 +90,7 @@ The only exception is if you rolled a natural 20 on a death saving throw to rega
 
 ### Custom Encumbrance
 - Your maximum carry weight is **10 × Strength score** in pounds.
-- There are **no penalties** for being over this limit — you simply **cannot carry more**.
+- There are **no penalties** for being over this limit, you simply **cannot carry more**.
 - **Pushing, dragging, and lifting** follow the standard (vanilla) rules.
 
 ---
