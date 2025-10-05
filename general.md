@@ -47,7 +47,9 @@ The only exception is if you rolled a natural 20 on a death saving throw to rega
   - As a guideline:
     - The act of casting can be heard from up to 120 feet away.
     - The words of the spell can be understood from up to 60 feet away, provided the spell is on the listener's spell list.
+
 --- 
+
 ### Wielding Items
 - Dropping an item on the ground/throwing it away requires no action.
 - Drawing or stowing an item requires an action.
