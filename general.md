@@ -112,11 +112,11 @@ Roll d20 and consult the table below to determine the injury.
 | 2     | **Lose an Arm or Hand.** Can't hold anything with two hands and can only hold a single object at a time.                                                                                                  |
 | 3     | **Lose a Foot or Leg.** Speed is halved. Requires a cane, crutch, or prosthesis. Falls prone after using Dash. Disadvantage on Dexterity checks made to balance.                                          |
 | 4     | **Limp.** Speed reduced by 5 ft. Must succeed on a DC 10 Dexterity saving throw after using Dash or fall prone.                                                                                           |
-| 5–7   | **Internal Injury.** When attempting an action in combat, must make a DC 15 Constitution saving throw. On a failed save, the action is lost and reactions can't be used until the start of the next turn. |
-| 8–10  | **Broken Ribs.** Same as Internal Injury, but the save DC is 10.                                                                                                                                          |
-| 11–13 | **Horrible Scar.** Disadvantage on Charisma (Persuasion) checks; advantage on Charisma (Intimidation) checks.                                                                                             |
-| 14–16 | **Festering Wound.** Hit point maximum is reduced by 1 every 24 hours. If it reaches 0, the creature dies.                                                                                                |
-| 17–20 | **Minor Scar.** No mechanical effect.                                                                                                                                                                     |
+| 5-7   | **Internal Injury.** When attempting an action in combat, must make a DC 15 Constitution saving throw. On a failed save, the action is lost and reactions can't be used until the start of the next turn. |
+| 8-10  | **Broken Ribs.** Same as Internal Injury, but the save DC is 10.                                                                                                                                          |
+| 11-13 | **Horrible Scar.** Disadvantage on Charisma (Persuasion) checks; advantage on Charisma (Intimidation) checks.                                                                                             |
+| 14-16 | **Festering Wound.** Hit point maximum is reduced by 1 every 24 hours. If it reaches 0, the creature dies.                                                                                                |
+| 17-20 | **Minor Scar.** No mechanical effect.                                                                                                                                                                     |
 
 ---
 
